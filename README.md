@@ -1,4 +1,4 @@
-# Habit Tracker
+# TrackWise – Track habits wisely
 
 Habit Tracker is a modern web application built with JavaScript, designed to help users build and maintain healthy habits efficiently. With an intuitive interface, this app allows users to add, monitor, and track their daily habits, visualize progress, and stay motivated on their self-improvement journey.
 
